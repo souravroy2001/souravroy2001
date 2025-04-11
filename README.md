@@ -60,9 +60,9 @@ I'm a passionate full-stack web and mobile development student currently learnin
 
 ## 📊 GitHub Stats
 
-![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravroy-official&show_icons=true&theme=github_dark)
+![Sourav's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=souravroy2001&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravroy-official&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souravroy2001&layout=compact&theme=github_dark)
 
 ---
 
