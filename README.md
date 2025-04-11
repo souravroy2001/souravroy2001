@@ -1,64 +1,75 @@
-# Hi, I'm Sourav Roy 👋
+# 👋 Hi, I'm Sourav Roy
 
-### 💻 Full-Stack Developer in Training | Lifelong Learner | From Hatidoba, Darjeeling
+### Full-Stack Web & Mobile Developer | JavaScript Enthusiast | Masai School Learner
 
-I’m a 24-year-old passionate and determined full-stack developer currently studying at **Masai School**. My coding journey started after class 10 when I learned HTML and CSS from a mentor for free. Due to financial challenges, I paused my learning to help my family. But now, I’m back on track — stronger and more committed than ever.
-
----
-
-## 🚀 About Me
-
-- 🏡 I'm from **Hatidoba**, a small village in **Darjeeling, West Bengal**
-- 👨‍👩‍👧‍👧 I have 3 sisters and we’re a close-knit family
-- 💔 Life changed after my father's serious accident
-- 🍃 My mother works in a local tea garden
-- 👦 I started working from a young age due to financial difficulties
-- 💻 I own a humble 2015-2016 laptop — and it’s my window to the world!
-- 🌱 Currently learning **HTML**, **CSS**, **JavaScript**, **Git**, and **Linux Shell Scripting**
-- 📚 Completed **BA in Arts**, now shifting into tech from scratch
-- 🚀 I love to build small projects and solve DSA problems daily
-- 🧠 I rewatch live sessions if I'm confused, and I rarely need extra help
-- 📹 Finished **MSM (Masai Speaking Marathon)** after 26 days of hard work and transformation
+I'm a passionate full-stack web and mobile development student currently learning at **Masai School**. I focus on building clean, scalable web and mobile applications using modern JavaScript technologies. Currently exploring **React Native** to build cross-platform mobile apps.
 
 ---
 
-## 💡 What I’m Working On
+## 🚀 Current Focus
 
-- 🔨 WordPress Website (In Progress)
-- 💬 JavaScript Problems (Arrays, Loops, Conditionals, Frequency-dromes)
-- 📁 Linux shell scripting tasks like file handling, permission checks, system info
-- 📘 Learning communication skills through CSBT sessions
-- 🎯 Building a small, consistent learning group for interview prep
-
----
-
-## 🛠 Skills
-
-- **Languages**: JavaScript (Beginner), HTML, CSS
-- **Tools**: Git, GitHub, VS Code, WordPress
-- **OS**: Ubuntu (Local Machine, troubleshooting currently), Windows
-- **Soft Skills**: Discipline, Consistency, Public Speaking (MSM Graduate)
+- ✅ Mastering **JavaScript**, **React**, and **React Native**
+- ✅ Improving problem-solving with **Data Structures & Algorithms**
+- ✅ Learning **Linux Shell Scripting**
+- ✅ Building and deploying personal projects
+- ✅ Collaborating using **Git** and **GitHub**
 
 ---
 
-## 📸 Fun Facts
+## 🛠️ Tech Stack
 
-- 🎥 I made a transformation by completing the Masai Speaking & Reading Marathon
-- 🧔 Long black hair with a small beard (Style: Man Bun 2.0 or Mid-Length Ponytail)
-- 💬 My day starts and ends with coding!
-- 🤝 I value respectful, committed people and love small learning groups
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+## 📂 Projects
+
+| Project Name | Description |
+|--------------|-------------|
+| **Qwikly** | 🚀 A fast-paced **quick commerce mobile app** built with React Native for on-demand shopping. |
+| **FundHive** | 💡 A **crowdfunding platform** developed in React.js to support fundraisers and social impact initiatives. |
+| **E-Commerce JS** | 🛍️ A dynamic e-commerce website built using **vanilla JavaScript** with cart and product filtering. |
+| **Community Collaboration Platform** | 🤝 A digital space for **community interaction, idea sharing, and teamwork**. |
+| **Book Library** | 📚 A simple **book catalog app** built with React.js to manage and search through book entries. |
+| **Library Management System** | 🏫 A React.js-based system to manage books, members, and borrowing records. |
+| **To-Do App** | ✅ A task management application for creating, updating, and tracking to-dos in real-time. |
 
 ---
 
-## 📫 Let’s Connect!
+## 📊 GitHub Stats
 
-Feel free to connect or collaborate:
+![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravroy-official&show_icons=true&theme=github_dark)
 
-- 💼 [My GitHub Profile](https://github.com/souravroy-official)
-- 🌐 Portfolio Website: *(Coming Soon)*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souravroy-official&layout=compact&theme=github_dark)
 
 ---
+
+## 📚 Currently Learning
+
+- Advanced JavaScript Concepts
+- React Native App Development
+- REST APIs Integration
+- Shell Scripting with Bash
+
+---
+
+## 📫 Let’s Connect
+
+- GitHub: [@souravroy-official](https://github.com/souravroy-official)
+- Portfolio: *(Coming Soon)*
+
+---
+
+Thank you for visiting!  
+Let’s build something amazing 🚀
 
 Thanks for stopping by!  
 **– Sourav Roy**
-
