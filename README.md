@@ -77,7 +77,7 @@ I'm a passionate full-stack web and mobile development student currently learnin
 
 ## 📫 Let’s Connect
 
-- GitHub: [@souravroy-official](https://github.com/souravroy-official)
+- GitHub: [@souravroy2001](https://github.com/souravroy2001)
 - Portfolio: *(Coming Soon)*
 
 ---
