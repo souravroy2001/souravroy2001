@@ -60,9 +60,50 @@ I'm a passionate full-stack web and mobile development student currently learnin
 
 ## 📊 GitHub Stats
 
-![Sourav's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=souravroy2001&show_icons=true&theme=github_dark)
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=souravroy2001&show_icons=true&theme=github_dark" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=souravroy2001&show_icons=true&theme=default" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=souravroy2001&show_icons=true&theme=default" 
+      alt="Sourav's GitHub Stats" />
+  </picture>
+</p>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souravroy2001&layout=compact&theme=github_dark)
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souravroy2001&layout=compact&theme=github_dark" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souravroy2001&layout=compact&theme=default" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souravroy2001&layout=compact&theme=default" 
+      alt="Top Languages" />
+  </picture>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souravroy2001&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=souravroy2001&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
 
 ---
 
