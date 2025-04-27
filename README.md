@@ -64,10 +64,10 @@ I'm a passionate full-stack web and mobile development student currently learnin
   <picture>
     <source 
       srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=souravroy2001&show_icons=true&theme=github_dark" 
-      media="(prefers-color-scheme: dark)" />
+      media="(prefers-color-scheme: light)" />
     <source 
       srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=souravroy2001&show_icons=true&theme=default" 
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
     <img 
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=souravroy2001&show_icons=true&theme=default" 
       alt="Sourav's GitHub Stats" />
