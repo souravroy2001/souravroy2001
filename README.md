@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate full-stack web and mobile development student at **Masai School**. I focus on building clean, scalable web and mobile applications using modern JavaScript technologies. I'm currently exploring React Native to build cross-platform mobile apps.
+  I'm a passionate full-stack web and mobile development student at Masai School. I focus on building clean, scalable web and mobile applications using modern JavaScript technologies. I'm currently exploring React Native to build cross-platform mobile apps.
 </p>
 
 
